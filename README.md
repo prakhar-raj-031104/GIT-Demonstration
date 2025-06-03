@@ -1,2 +1,2 @@
 # GIT-Demonstration
-learning github
+learning github .
